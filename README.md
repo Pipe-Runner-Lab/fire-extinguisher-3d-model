@@ -1,4 +1,4 @@
-# Ember Guardian
+# Fire Extinguisher 3D Model
 This was a school project but it turned out nicely so I am putting it up here.
 <br/>
 <br/>
